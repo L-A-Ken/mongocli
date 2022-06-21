@@ -17,4 +17,5 @@ const connection = async () => {
 
 // use this functon to check connection to db connection();
 
+// connection();
 module.exports = { connection, client };
